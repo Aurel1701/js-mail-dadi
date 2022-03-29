@@ -7,7 +7,6 @@ const list = [ 'Stefano@gmail.com', 'Sara@gmail.com', 'Veronica@gmail.com', 'Leo
 let count = 0
 // esito del controllo 
 for (let i = 0; i < list.length; i++) {
-    
 
     if (email == list[i]) {
         count++
@@ -23,3 +22,4 @@ if (count !== 0) {
 } else{
     alert('non puoi accedere')
 }
+
