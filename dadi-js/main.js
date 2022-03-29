@@ -1,5 +1,5 @@
 
-// dadi
+//  esercizio dadi
 
 
 let user = Math.floor(Math.random() * 6) + 1;
